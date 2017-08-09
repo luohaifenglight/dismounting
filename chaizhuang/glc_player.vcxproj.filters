@@ -1,0 +1,915 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts;xlf</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts;xlf</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{d91bdfeb-9ee7-45a0-9ac0-68007a056012}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{6a655409-7aa9-4622-846d-3b749880f1c9}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ui_class\AboutPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlbumFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\AlbumManagerView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ChooseShaderDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\EditCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\EditLightDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\EditPositionDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ErrorLogDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ExportProgressDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExportToWeb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ExportWebDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileEntry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileOpenFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\InstanceProperty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\LeftSideDock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ListOfMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opengl_view\MaterialOpenglView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\MaterialProperty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ModelManagerView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ModelProperties.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ModelStructure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\MultiScreenshotsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opengl_view\MultiShotsOpenglView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\OpenAlbumOption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenFileThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opengl_view\OpenglView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveFileThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\ScreenshotDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\SelectionProperty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\SendFilesDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\SettingsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterfaceSate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glc_player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_AboutPlayer.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_AboutPlayer.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_AlbumManagerView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_AlbumManagerView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ChooseShaderDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ChooseShaderDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_EditCamera.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_EditCamera.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_EditLightDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_EditLightDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_EditPositionDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_EditPositionDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ExportProgressDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ExportProgressDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ExportToWeb.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ExportToWeb.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ExportWebDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ExportWebDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_FileOpenFilter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_FileOpenFilter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_InstanceProperty.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_InstanceProperty.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_LeftSideDock.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_LeftSideDock.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ListOfMaterial.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ListOfMaterial.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_MaterialOpenglView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_MaterialOpenglView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_MaterialProperty.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_MaterialProperty.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ModelManagerView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ModelManagerView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ModelProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ModelProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ModelStructure.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ModelStructure.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_MultiScreenshotsDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_MultiScreenshotsDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_MultiShotsOpenglView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_MultiShotsOpenglView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_OpenAlbumOption.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_OpenAlbumOption.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_OpenFileThread.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_OpenFileThread.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_OpenglView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_OpenglView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SaveFileThread.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SaveFileThread.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_ScreenshotDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_ScreenshotDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SelectionProperty.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SelectionProperty.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SendFilesDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SendFilesDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_SettingsDialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_SettingsDialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_glc_player.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_glc_player.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_glc_player.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_lang.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_shaders.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_class\Disassemblymanagerview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_Disassemblymanagerview.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_Disassemblymanagerview.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="XmlCommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="ui_class\AboutPlayer.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="AlbumFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="ui_class\AlbumManagerView.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ChooseShaderDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\EditCamera.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\EditLightDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\EditPositionDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="ui_class\ErrorLogDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="ui_class\ExportProgressDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ExportToWeb.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ExportWebDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="FileEntry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="FileOpenFilter.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\InstanceProperty.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\LeftSideDock.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ListOfMaterial.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="opengl_view\MaterialOpenglView.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\MaterialProperty.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ModelManagerView.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ModelProperties.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ModelStructure.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\MultiScreenshotsDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="opengl_view\MultiShotsOpenglView.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\OpenAlbumOption.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="OpenFileThread.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="opengl_view\OpenglView.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SaveFileThread.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\ScreenshotDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\SelectionProperty.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\SendFilesDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\SettingsDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="UserInterfaceSate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="glc_player.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\Disassemblymanagerview.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui_class\Disassemblymanagerview.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ressources\glc_player_fr.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="designer\AboutPlayer.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\AlbumManagerView.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ChooseShaderDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\EditCamera.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\EditLightDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\EditPosition.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ErrorLogDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ExportProgressDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ExportWebDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\HelpBrowser.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\InstanceProperty.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\LeftSideDock.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ListOfMaterial.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\MaterialProperty.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ModelManagerView.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ModelProperties.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ModelStructure.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\MultiScreenshotsDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\OpenAlbumOption.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\ScreenshotDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\SelectionProperty.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\SendFilesDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\SettingsDialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="designer\glc_player.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ressources\images\3DXMLDefaultPreview.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Album.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Center.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Cursor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\CylindreShading.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\CylindreShadingAndWire.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\CylindreWire.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FitAll.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FitSelected.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FlecheBack.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FlecheNext.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FlyMode.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FrontView.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\FullScreen.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\GLC_logo_blanc.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\GlSetting.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Globe.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\InstanceProperties.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\InteruptLoading.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\IsoView1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\IsoView2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\IsoView3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\IsoView4.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LightBulb.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Logo40x40.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Logo50x50.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Logo60x60.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Logo70x70.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Logo80x80.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LogoError.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LogoError40x40.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LogoError50x50.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LogoError60x60.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LogoError70x70.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\LogoError80x80.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\ModelProperties.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\New.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\NoShow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\NoShow_background.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\NotSendAll.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\NotSendSelected.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\OpenAlbum.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Orbit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Pan.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Points.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Refresh.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Remove.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\RemoveError.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\RemoveUnload.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\ResumeLoading.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\RightView.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\SaveAs.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Section.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\SendAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\SendAll.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\SendSelected.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Shading.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Show.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\ShowNoShow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\SnapShoot.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Splash.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\SwapVisible.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Synchro.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\TopView.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\TurnTable.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\UpVector.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\UpdateThumbnails.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Wire.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\Zoom.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\ZoomIn.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\ZoomOut.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\default_background.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="designer\glc_player.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="ressources\glc_player_fr.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\shaders\goochShading.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\shaders\goochShading.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="ressources\lang.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="ressources\shaders\minnaert.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\shaders\minnaert.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\part.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\partHidden.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\product.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\productHidden.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\shaders\select.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\shaders\select.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\images\shader.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="ressources\shaders.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="ressources\shaders\toon.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ressources\shaders\toon.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ressources\glc_player.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneratedFiles\ui_AboutPlayer.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_AlbumManagerView.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ChooseShaderDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_EditCamera.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_EditLightDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_EditPosition.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ErrorLogDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ExportProgressDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ExportWebDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_HelpBrowser.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_InstanceProperty.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_LeftSideDock.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ListOfMaterial.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_MaterialProperty.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ModelManagerView.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ModelProperties.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ModelStructure.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_MultiScreenshotsDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_OpenAlbumOption.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_ScreenshotDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SelectionProperty.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SendFilesDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_SettingsDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_glc_player.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_Disassemblymanagerview.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XmlCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<Disassembly> <Actions>
+		<!--定义模型的相对运动,坐标是指模型本地(local)坐标,数据结构:(x增量,y增量,z增量),(x转角增量,z转角增量,z转角增量),运动时间-->
+		<Action1>(3,0,0),(5,0,0),3;(4,0,0),(0,0,0),3</Action1>
+		<Action2>(6,0,0),(5,0,0),5;(6,0,0),(0,0,0),3</Action2>
+		<Action3>(9,0,0),(15,0,0),6;(8,0,0),(0,0,0),3</Action3>
+	</Actions>
+	<!--一个步骤可以拆几个零件,表示这几个零件拆卸次序无关:零件名,动作名;...-->
+	<Steps>
+		<step1>model1,Action1;model2,action2</step1>
+		<step2>model3,Action1;model4,action3</step2>
+	</Steps>
+</Disassembly>
